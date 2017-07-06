@@ -1,0 +1,164 @@
+#breadcrumbs { display:none }
+#access {
+	width:100%;
+}
+#access td {
+	text-align:right;
+}	
+header {
+    position:relative;
+    width:100%;
+    height:50%;
+    background-color:white;
+}
+body {
+    margin-right:7%;
+    margin-left:7%;
+    margin-bottom:2%;
+}
+#logo {
+	padding-left:8%;
+    width:35%;
+}
+#nathan {
+    width:55%;
+}
+table {
+    width:100%;
+    height:50%;
+}
+hr {
+    background-color:green;
+    height:9%;
+}
+td {
+    width:16.66%;
+    text-align:left;
+    font-size:1.2em;
+    font-family:Verdana;
+    padding-bottom:10px;
+    padding-top:10px;
+}
+.pair {
+    background-color:rgb(72,84,144);
+    color:white;
+    text-align:center;
+}
+.pair:hover {
+    background-color:rgb(26,35,119);
+}
+.impair {
+    background-color:rgb(244,117,34);
+    color:rgb(0,0,64);
+    text-align:center;
+}
+.impair:hover {
+    background-color:rgb(248,75,1);
+    font-weight:bold;
+}
+#ti {
+    background-color:yellow;
+}
+#ss {
+    background-color:rgb(0,64,128);
+    width:80%;
+    float:left;
+    text-align:center;
+    color:rgb(244,117,34);
+    font-size:0.5em;
+    font-family:Verdana;
+    padding-top:5px;
+    padding-bottom:15px;
+}
+#pss {
+    border-radius:30px;
+}
+#c {
+    width:19%;
+    float:left;
+    font-family:Verdana;
+    font-size:0.8em;
+    border-radius:20px;
+    padding-bottom:10px;
+    border:solid 1px
+    border-color:green;
+}
+footer {
+    background-color:rgb(80,103,102);
+    text-align:center;
+    font-family:Verdana;
+    font-size:0.8em;
+    padding-top:1px;
+    clear:both;
+    color:white;
+}
+#txt {
+    padding-left:15px;
+    color:white;
+    padding-right:15px;
+    text-align:justify;
+}
+#ne {
+    color:rgb(80,103,102);
+    font:Verdana;
+    text-align:center;
+    font-size:2em;
+}
+a:link {
+    text-decoration:none;
+    color:white;
+}
+a:visited {
+    text-decoration:none;
+    color:white;
+}
+a:active {
+    text-decoration:none;
+    color:white;
+}
+h2 {
+    text-align:center;
+    background-color:rgb(80,103,102);
+    color:white;
+}
+h1 {
+    font-family:Verdana;
+    text-align:right;
+    color:rgb(80,103,102);
+}
+.cntt {
+    font-family:Arial;
+    text-align:justify;
+}
+.nice:hover {
+    color:rgb(80,103,102);
+    font-weight:bold;
+}
+.fix {
+    text-align:right;
+    color:red;
+    background-color:rgb(244,117,34);
+    width:50%;
+}
+#sider {
+	text-align:center;
+	font-weight:bold;
+	color:white;
+	font-family:Verdana,Arial;
+	position:fixed;
+    background-color:rgb(72,84,144);
+	right:0px;
+	top:20%;
+	font-size:12px;
+}
+#sider2 {
+	text-align:center;
+	font-weight:bold;
+	color:white;
+	font-family:Verdana,Arial;
+	position:fixed;
+    background-color:rgb(244,117,34);
+	left:0px;
+	top:20%;
+	font-size:12px;
+}
